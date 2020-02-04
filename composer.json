@@ -1,0 +1,11 @@
+{
+    "name": "aasis/mvc",
+    "description": "this is sample",
+    "authors": [
+        {
+            "name": "aasis",
+            "email": "aasis@gmail.com"
+        }
+    ],
+    "require": {}
+}
